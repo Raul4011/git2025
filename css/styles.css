@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#header {
+    background-color: orange;
+    color: blue;
+    text-shadow: 2px 4px 4px black;
+    font-family: sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+.main {
+    background-image: url("https://cdn.britannica.com/35/238335-050-2CB2EB8A/Lionel-Messi-Argentina-Netherlands-World-Cup-Qatar-2022.jpg");
+    background-size: cover;
+}
+.footer {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+
